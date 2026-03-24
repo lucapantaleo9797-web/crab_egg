@@ -1,0 +1,68 @@
+{
+  "name": "crabegg",
+  "version": "1.0.0",
+  "description": "From product to revenue in one hatch. Zero-to-sales meta-skill that builds your entire content discovery, script generation, video production, and ecommerce pipeline from scratch. Combines Apify scraping, Claude analysis, ElevenLabs voice, Creatify avatars, Higgsfield B-Roll, Spotify integration, and Shopify commerce.",
+  "author": "lpanta",
+  "license": "MIT-0",
+  "homepage": "https://github.com/lucapantaleo9797-web/crab_egg",
+  "keywords": [
+    "content-pipeline",
+    "video-production",
+    "ecommerce",
+    "viral-content",
+    "tiktok",
+    "instagram",
+    "shopify",
+    "spotify",
+    "self-improving",
+    "automation",
+    "sales",
+    "apify",
+    "elevenlabs",
+    "creatify",
+    "higgsfield"
+  ],
+  "compatibility": {
+    "openclaw": ">=1.0.0",
+    "python": ">=3.8",
+    "required_packages": ["requests"]
+  },
+  "triggers": [
+    "crabegg",
+    "crab egg",
+    "hatch",
+    "set up my product",
+    "launch my product",
+    "content pipeline from scratch",
+    "build my sales system",
+    "I want to sell online",
+    "zero to revenue",
+    "content to sales",
+    "build my content machine"
+  ],
+  "files": {
+    "skill": "SKILL.md",
+    "scripts": [
+      "scripts/hatch.py",
+      "scripts/scout.py",
+      "scripts/writer.py",
+      "scripts/producer.py",
+      "scripts/spotify_scout.py",
+      "scripts/evolve.py"
+    ],
+    "references": [
+      "references/api-endpoints.md",
+      "references/apify-actors.md",
+      "references/analysis-prompt.md",
+      "references/script-prompt-template.md",
+      "references/broll-format.md",
+      "references/spotify-integration.md",
+      "references/shopify-setup.md",
+      "references/humanizer-patterns.md",
+      "references/self-improvement.md"
+    ],
+    "assets": [
+      "assets/hatching-art.md"
+    ]
+  }
+}

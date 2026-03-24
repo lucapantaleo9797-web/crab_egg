@@ -1,0 +1,20 @@
+# CrabEgg workspace data (generated at runtime)
+crabegg-workspace/
+data/api-config.json
+.learnings/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Logs (optional — you may want to track these)
+# logs/
