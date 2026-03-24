@@ -1,6 +1,6 @@
 # CrabEgg
 
-From product to revenue in one hatch. A meta-skill for OpenClaw that builds your entire content-to-sales infrastructure from scratch.
+From product to revenue in one hatch.
 
 ```
                     ___
@@ -17,14 +17,14 @@ From product to revenue in one hatch. A meta-skill for OpenClaw that builds your
 
 ## What is CrabEgg?
 
-CrabEgg is an OpenClaw skill that takes a single input — your product — and autonomously builds:
+CrabEgg is an OpenClaw skill that takes a single input — your product — and builds your entire content-to-sales infrastructure from scratch.
 
+- **Commerce** — Shopify storefront, checkout links, sales attribution via Stripe
 - **Content Discovery** — Scrapes TikTok + Instagram for viral posts via Apify, analyzes them with Claude Haiku
 - **Creator Auto-Discovery** — Finds new creators in your niche automatically
 - **Script Generation** — Claude Sonnet writes branded video scripts with B-Roll markers
 - **Video Production** — ElevenLabs (voice) + Creatify (talking head) + Higgsfield (B-Roll)
 - **Spotify Integration** — Podcast discovery + brand-aligned music curation
-- **Commerce** — Shopify storefront, checkout links, sales attribution via Stripe
 - **Self-Improvement** — Learns from performance data and gets smarter over time
 
 You answer 22 questions once. CrabEgg does the rest.
